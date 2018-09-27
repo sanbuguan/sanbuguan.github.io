@@ -3,7 +3,7 @@ layout: post
 title: 「极简主义」读书笔记
 date: 2018-09-08
 categories: studynotes
-tags: [极简主义,工作方法]
+tags: [极简主义,工作方法,读书笔记]
 description: 
 ---
 

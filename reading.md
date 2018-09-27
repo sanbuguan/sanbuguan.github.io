@@ -22,5 +22,5 @@ header-img: "img/semantic.jpg"
 - [x] 别让情绪失控害了你
 - [ ] 认知突围
 - [x] [极简主义](/studynotes/2018/09/08/WorkSimply/)
-- [ ] 逆向管理
+- [x] [逆向管理](/studynotes/2018/09/27/ActLikeAeader/)
 - [ ] 原则

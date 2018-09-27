@@ -3,7 +3,7 @@ layout: post
 title: 先谋其事 vs 先任其职
 date: 2018-09-27
 categories: studynotes
-tags: [逆向管理]
+tags: [管理,工作方法,读书笔记]
 description: 逆向管理，先行动后思考
 ---
 
