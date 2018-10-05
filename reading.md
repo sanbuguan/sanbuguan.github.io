@@ -20,7 +20,7 @@ header-img: "img/semantic.jpg"
 - [x] 重新定义团队
 - [x] [刻意练习](/studynotes/2018/08/30/Deliberately/)
 - [x] 别让情绪失控害了你
-- [ ] 认知突围
+- [x] [认知突围](/studynotes/2018/10/05/UpThinking/)
 - [x] [极简主义](/studynotes/2018/09/08/WorkSimply/)
 - [x] [逆向管理](/studynotes/2018/09/27/ActLikeAeader/)
 - [ ] 原则

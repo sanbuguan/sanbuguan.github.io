@@ -6,6 +6,7 @@ categories: studynotes
 tags: [认知突围,读书笔记]
 description: 
 ---
+![UpThinking]( {{ "/assert/20181005_1.jpg" | prepend: site.img_location }} )
 
 ## 什么是认知？
 
@@ -119,4 +120,4 @@ description:
 
 ### Change Log
 1. 2018-10-05  完成初稿
-
+2. 2018-10-06  更新文章书籍图片，修正部分不通顺语句
