@@ -43,6 +43,6 @@ header-img: "img/green.jpg"
 
 邮箱：lai-nn-1@qq.com   
 Github：[https://github.com/sanbuguan](https://github.com/sanbuguan)    
-个人博客：
+个人博客：[https://blog.laipeng.net](https://blog.laipeng.net)
 
 
