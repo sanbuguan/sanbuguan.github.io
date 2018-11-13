@@ -60,3 +60,4 @@ GitHhub Pages的出现改变了这一切，可以自由的提交commit博客，�
 2. GitPages搭建指南 [http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html](http://www.ruanyifeng.com/blog/2012/08/blogging_with_jekyll.html)
 3. jekyll官网 [https://www.jekyll.com.cn](https://www.jekyll.com.cn)
 4. jekyll目录及变量 [http://comtu.github.io/2014/10/19/Jekyll_Variables.html](http://comtu.github.io/2014/10/19/Jekyll_Variables.html)
+5. Liquid中文网站 [https://liquid.bootcss.com](https://liquid.bootcss.com)
