@@ -23,4 +23,5 @@ header-img: "img/semantic.jpg"
 - [x] [认知突围](/studynotes/2018/10/05/UpThinking/)
 - [x] [极简主义](/studynotes/2018/09/08/WorkSimply/)
 - [x] [逆向管理](/studynotes/2018/09/27/ActLikeAeader/)
+- [x] [当我谈跑步时，我谈些什么](/studynotes/2018/11/17/TalkAboutRunning/)
 - [ ] 原则
