@@ -8,6 +8,8 @@ description: 读村上春树的"当我谈跑步时，我谈些什么"
 hidden: false
 ---
 
+![ActLikeAeader]( {{ "/assert/20181117_1.jpg" | prepend: site.img_location }} )
+
 ### 简介
 
 * **前序 作为选择对象的磨难**  
