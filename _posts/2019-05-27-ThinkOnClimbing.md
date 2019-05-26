@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 登山随想
-date: 2019-05-26
+date: 2019-05-27
 categories: life
 tags: [爬山，感悟]
 description: 周末爬山时，想到的一些事情和人生哲理
