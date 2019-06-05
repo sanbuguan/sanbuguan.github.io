@@ -28,7 +28,7 @@ header-img: "img/semantic.jpg"
 - [ ] 余生好贵 请勿浪费 - 特立独行的猫
 - [ ] 人性的弱点 - 戴尔·卡耐基
 - [x] [活着 - 余华](/studynotes/2019/02/25/ToLive/)
-- [x] 活法 - 稻盛和夫
+- [x] [活法 - 稻盛和夫](/life/2019/06/05/Spirtuality/)
 - [x] [如何高效学习 - 斯科特·杨](/studynotes/2019/05/26/LearnMore/)
 - [x] 美国简史 - 罗伯特·瑞米尼
 - [x] [冰山在融化 - 约翰·科特](/life/2019/04/01/IcebergMelt/)
