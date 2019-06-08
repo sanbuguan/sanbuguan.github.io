@@ -20,7 +20,7 @@ header-img: "img/semantic.jpg"
 - [x] [墨菲定律 - 李原](/studynotes/2019/03/23/ReadingGrowth/)
 - [x] 海底捞的经营哲学 - 蔡艳鹏
 - [ ] 城南往事 - 林海音
-- [ ] 羊皮卷 - 林永年
+- [x] 羊皮卷 - 林永年
 - [x] [蔡康永的情商课 - 蔡康永](/studynotes/2019/03/16/EqbyCKY/)
 - [ ] 薛兆丰经济学讲义 - 薛兆丰 
 - [x] [AI·未来 - 李开复](/studynotes/2019/02/18/AISuperpowers/)
