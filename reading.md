@@ -12,7 +12,7 @@ header-img: "img/semantic.jpg"
 
 - [x] [自控力 - 凯利·麦格尼格尔](/studynotes/2019/01/16/WillPower/)
 - [ ] 原则 - 瑞·达利欧
-- [ ] 态度 - 吴军
+- [x] [态度 - 吴军](/studynotes/2019/06/25/AttitudeFather/)
 - [x] 1984 - 乔治·奥维尔
 - [ ] 乌合之众 - 古斯塔夫·勒庞
 - [x] 老人与海 - 海明威
