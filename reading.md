@@ -25,7 +25,7 @@ header-img: "img/semantic.jpg"
 - [ ] 薛兆丰经济学讲义 - 薛兆丰 
 - [x] [AI·未来 - 李开复](/studynotes/2019/02/18/AISuperpowers/)
 - [x] 基因中的人类简史 - 克里斯廷·肯奈利
-- [ ] 余生好贵 请勿浪费 - 特立独行的猫
+- [x] [余生好贵 请勿浪费 - 特立独行的猫](/life/2019/07/03/JustDoMore/)
 - [ ] 人性的弱点 - 戴尔·卡耐基
 - [x] [活着 - 余华](/studynotes/2019/02/25/ToLive/)
 - [x] [活法 - 稻盛和夫](/life/2019/06/05/Spirtuality/)
