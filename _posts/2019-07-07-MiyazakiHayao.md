@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 动画中的宫崎骏
+title: 宫崎骏的动画片在讲什么？
 date: 2019-07-07
-categories: tech,working,life,studynotes,
+categories: life
 tags: [动画,宫崎骏,自然,善良]
 description: 宫崎骏爷爷的动画片，在像我们表达着什么？
 hidden: false
