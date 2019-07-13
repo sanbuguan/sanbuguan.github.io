@@ -16,7 +16,7 @@ header-img: "img/semantic.jpg"
 - [x] 1984 - 乔治·奥维尔
 - [ ] 乌合之众 - 古斯塔夫·勒庞
 - [x] 老人与海 - 海明威
-- [ ] 人间失格 - 太宰治
+- [x] [人间失格 - 太宰治](/life/2019/07/13/NolongerHuman/)
 - [x] [墨菲定律 - 李原](/studynotes/2019/03/23/ReadingGrowth/)
 - [x] 海底捞的经营哲学 - 蔡艳鹏
 - [ ] 城南往事 - 林海音
