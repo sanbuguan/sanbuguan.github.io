@@ -14,7 +14,7 @@ header-img: "img/semantic.jpg"
 - [ ] 原则 - 瑞·达利欧
 - [x] [态度 - 吴军](/studynotes/2019/06/25/AttitudeFather/)
 - [x] 1984 - 乔治·奥维尔
-- [ ] 乌合之众 - 古斯塔夫·勒庞
+- [x] 乌合之众 - 古斯塔夫·勒庞
 - [x] 老人与海 - 海明威
 - [x] [人间失格 - 太宰治](/life/2019/07/13/NolongerHuman/)
 - [x] [墨菲定律 - 李原](/studynotes/2019/03/23/ReadingGrowth/)
