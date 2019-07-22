@@ -11,7 +11,6 @@ header-img: "img/semantic.jpg"
 读书不能给我们的物质生活太大的改变，它最大的作用，就是帮人成长自我。  
 
 - [x] [自控力 - 凯利·麦格尼格尔](/studynotes/2019/01/16/WillPower/)
-- [ ] 原则 - 瑞·达利欧
 - [x] [态度 - 吴军](/studynotes/2019/06/25/AttitudeFather/)
 - [x] 1984 - 乔治·奥维尔
 - [x] 乌合之众 - 古斯塔夫·勒庞
@@ -19,19 +18,22 @@ header-img: "img/semantic.jpg"
 - [x] [人间失格 - 太宰治](/life/2019/07/13/NolongerHuman/)
 - [x] [墨菲定律 - 李原](/studynotes/2019/03/23/ReadingGrowth/)
 - [x] 海底捞的经营哲学 - 蔡艳鹏
-- [ ] 城南往事 - 林海音
+- [x] [城南往事 - 林海音](/life/2019/07/22/MemoriesOfPeking/)
 - [x] 羊皮卷 - 林永年
 - [x] [蔡康永的情商课 - 蔡康永](/studynotes/2019/03/16/EqbyCKY/)
-- [ ] 薛兆丰经济学讲义 - 薛兆丰 
 - [x] [AI·未来 - 李开复](/studynotes/2019/02/18/AISuperpowers/)
 - [x] 基因中的人类简史 - 克里斯廷·肯奈利
 - [x] [余生好贵 请勿浪费 - 特立独行的猫](/life/2019/07/03/JustDoMore/)
-- [ ] 人性的弱点 - 戴尔·卡耐基
 - [x] [活着 - 余华](/studynotes/2019/02/25/ToLive/)
 - [x] [活法 - 稻盛和夫](/life/2019/06/05/Spirtuality/)
 - [x] [如何高效学习 - 斯科特·杨](/studynotes/2019/05/26/LearnMore/)
 - [x] 美国简史 - 罗伯特·瑞米尼
 - [x] [冰山在融化 - 约翰·科特](/life/2019/04/01/IcebergMelt/)
+- [ ] 薛兆丰经济学讲义 - 薛兆丰 
+- [ ] 原则 - 瑞·达利欧
+- [ ] 人性的弱点 - 戴尔·卡耐基
+- [ ] 图说西方建筑简史 - 佐藤达生
+
 
 ## 2019英语学习
 - [ ] TOEFL词汇 - 新东方
