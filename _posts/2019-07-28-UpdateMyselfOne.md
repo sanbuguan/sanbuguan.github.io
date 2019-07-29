@@ -3,8 +3,8 @@ layout: post
 title: 成长：分析自己，规划未来-1
 date: 2019-07-28
 categories: life
-tags: [回忆,趣事,游戏]
-description: 回忆自己的童年的趣事
+tags: [成长,未来]
+description: 如何提升自己，规划自己的未来，使自己可以持续的成长
 hidden: false
 ---
 
