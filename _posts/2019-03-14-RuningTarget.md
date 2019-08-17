@@ -3,7 +3,7 @@ layout: post
 title: 最后一刻的400公里
 date: 2019-03-14
 categories: life
-tags: [跑步，感悟]
+tags: [跑步,感悟]
 description: 2018年跑步冲刺400公里的一些思考
 hidden: false
 ---
