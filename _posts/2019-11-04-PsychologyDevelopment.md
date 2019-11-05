@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如果过好这一生？
+title: 如何过好这一生？
 date: 2019-11-04
 categories: studynotes
 tags: [心理学，强大]
