@@ -1,4 +1,4 @@
----
+m ---
 layout: page
 title: "Reading"
 description: "学而不思则罔,死而不学则怠 "
@@ -18,6 +18,16 @@ header-img: "img/semantic.jpg"
 - [ ] 人性的弱点 - 戴尔·卡耐基
 - [ ] 了不起的我:自我发展心理学 - 陈海贤
 - [ ] 逆商 - 保罗·史托兹
+- [ ] 我们仨 - 杨绛
+- [ ] 围城 - 钱钟书
+- [ ] 超越感觉：批判性思考指南 - 文森特·鲁吉罗
+- [ ] 幽默沟通 - 张晓
+- [ ] 思辨与立场 - 理查德·保罗
+- [ ] 好奇心 - 伊恩·莱斯利
+- [ ] 逆商 - 保罗·史托兹
+
+
+幽默沟通
 
 
 ## 2020英语学习
@@ -25,6 +35,8 @@ header-img: "img/semantic.jpg"
 - [ ] 英文写作简单极致美学 - 钟平
 - [ ] 小王子(英文版)
 - [ ] 逻辑英语语法 - 钟平
+- [ ] Animal Farm - George Orwell
+- [ ] The Old Man and the Sea - Hemingway
 
 
 
