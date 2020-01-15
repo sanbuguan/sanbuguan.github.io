@@ -29,9 +29,6 @@ header-img: "img/semantic.jpg"
 - [ ] 活着为了讲述 - 加西亚·马尔克斯
 
 
-幽默沟通
-
-
 ## 2020英语学习
 - [ ] TOEFL词汇 - 新东方
 - [ ] 英文写作简单极致美学 - 钟平
@@ -40,6 +37,9 @@ header-img: "img/semantic.jpg"
 - [ ] Animal Farm - George Orwell
 - [ ] The Old Man and the Sea - Hemingway
 
+
+## 预备书单
+1. 能力与陷阱
 
 
 <br/><br/>
