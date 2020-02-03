@@ -86,7 +86,7 @@ header-img: "img/semantic.jpg"
 - [x] 时间简史
 - [x] 人类简史
 - [x] 增长黑客
-- [x] 月亮与六便士
+- [x] [月亮和六便士](/life/2020/02/04/TheMoonAndSixpence/)
 - [x] 极简父母准则
 - [x] 卓有成效的管理者
 - [x] 重新定义团队
