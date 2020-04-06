@@ -34,14 +34,14 @@ hidden: false
 深港合作区的路牌  
 ![](  {{ "/assert/20200405_8.jpg" | prepend: site.img_location }}  )  
 
-青年梦工场的白楼  
+青年梦工场的创业白楼  
 ![](  {{ "/assert/20200405_9.jpg" | prepend: site.img_location }}  )  
 ![](  {{ "/assert/20200405_10.jpg" | prepend: site.img_location }}  )  
 
-小朋友的公交书包  
+小朋友的Bus书包  
 ![](  {{ "/assert/20200405_11.jpg" | prepend: site.img_location }}  )  
 
-含羞草与美丽鲜花  
+含羞草与美丽花朵  
 ![](  {{ "/assert/20200405_12.jpg" | prepend: site.img_location }}  )  
 ![](  {{ "/assert/20200405_13.jpg" | prepend: site.img_location }}  )  
 ![](  {{ "/assert/20200405_14.jpg" | prepend: site.img_location }}  )  
@@ -50,7 +50,7 @@ hidden: false
 ![](  {{ "/assert/20200405_15.jpg" | prepend: site.img_location }}  )  
 ![](  {{ "/assert/20200405_16.jpg" | prepend: site.img_location }}  )  
 
-路途休息的食粮  
+路途休息中的食粮  
 ![](  {{ "/assert/20200405_17.jpg" | prepend: site.img_location }}  )  
 
 落满花瓣的草地  
@@ -64,8 +64,7 @@ hidden: false
 ![](  {{ "/assert/20200405_21.jpg" | prepend: site.img_location }}  )  
 
 附近的商场  
-以前是这里是周大福冠名的，有很多港货店，还可以逛逛  
-现在是红星美凯龙冠名，主要是卖进口家具(我个人是没什么可逛的了)  
+以前这里是周大福冠名的，有很多港货店，还可以逛逛。现在是红星美凯龙冠名，主要是卖进口家具(我个人是没什么可逛的了)  
 欣慰的是楼下的麦当劳还在，小朋友最喜欢的圣代  
 ![](  {{ "/assert/20200405_22.jpg" | prepend: site.img_location }}  )  
 ![](  {{ "/assert/20200405_23.jpg" | prepend: site.img_location }}  )  
