@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reading"
-description: "学而不思则罔,死而不学则怠 "
+description: "学而不思则罔,思而不学则怠 "
 header-img: "img/semantic.jpg"
 ---
 
@@ -40,6 +40,10 @@ header-img: "img/semantic.jpg"
 
 ## 预备书单
 1. 能力与陷阱
+2. 思考的快与慢
+3. 你当像鸟飞往你的山
+4. 装腔指南
+
 
 
 <br/><br/>
