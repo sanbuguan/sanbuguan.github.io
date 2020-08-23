@@ -2,7 +2,7 @@
 layout: post
 title: 困境、希望、改变
 date: 2020-08-24
-categories: tech,working,life,studynotes,others
+categories: life
 tags: [困境,希望,改变]
 description: 只有充满希望的改变，才能突破目前的困境
 hidden: false
