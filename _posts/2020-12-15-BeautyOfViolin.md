@@ -8,7 +8,7 @@ description: 提琴美好的声音
 hidden: false
 ---
 
-![](  {{ "/assert/20201215_1.jpg" | prepend: site.img_location }}  )
+![]({{ "/assert/20201215_1.jpg" | prepend: site.img_location }})
 
 ### 奇妙的开始
 
@@ -22,9 +22,9 @@ hidden: false
 
 ### 1. David Garrett
 
-> 大卫·葛瑞特，1980年9月4日出生于德国亚琛，小提琴家、[模特](https://baike.baidu.com/item/模特/522136)、演员、作曲家。
+> 大卫·葛瑞特，1980年9月4日出生于德国亚琛，小提琴家、模特、演员、作曲家。
 >
-> 德国-美国混血的音乐神童，在青少年时期就写下连篇传奇故事，被[BBC](https://baike.baidu.com/item/BBC/922)（英国国家广播电视）喻为“已经是传奇！”的提琴王子
+> 德国-美国混血的音乐神童，在青少年时期就写下连篇传奇故事，被BBC（英国国家广播电视）喻为“已经是传奇！”的提琴王子
 >
 > -----百度百科
 
@@ -76,7 +76,7 @@ Eye of the Tiger(推荐看MV，提琴的撕裂感很爽)
 [Viva La Vida](https://music.163.com/song?id=28613094){:target="_blank"}：[https://music.163.com/song?id=28613094](https://music.163.com/song?id=28613094){:target="_blank"}  
 [I'm Yours](https://music.163.com/song?id=28613092){:target="_blank"}：[https://music.163.com/song?id=28613092](https://music.163.com/song?id=28613092){:target="_blank"}  
 [Bad Romance](https://music.163.com/song?id=28613091){:target="_blank"}：[https://music.163.com/song?id=28613091](https://music.163.com/song?id=28613091){:target="_blank"}  
-Bad Romance：没错就是Lady Gaga的
+Bad Romance：没错就是Lady Gaga的  
 
 ### 6. Vitamin String Quartet
 
@@ -85,12 +85,12 @@ Bad Romance：没错就是Lady Gaga的
 > -----网易云音乐
 
 [Numb](https://music.163.com/song?id=20736634){:target="_blank"}：[https://music.163.com/song?id=20736634](https://music.163.com/song?id=20736634){:target="_blank"}  
-Numb:来自Linkin Park，VSQ有一张专辑全是Linkin Park的歌曲，用弦乐演奏。
+Numb:来自Linkin Park，VSQ有一张专辑全是Linkin Park的歌曲，用弦乐演奏。  
 [Poker Face](https://music.163.com/song?id=20733577){:target="_blank"}：[https://music.163.com/song?id=20733577](https://music.163.com/song?id=20733577){:target="_blank"}  
-Poker Face:来自Lady Gaga，同样也有Lady Gaga的专辑
+Poker Face:来自Lady Gaga，同样也有Lady Gaga的专辑  
 [Hey Jude](https://music.163.com/song?id=20737597){:target="_blank"}：[https://music.163.com/song?id=20737597](https://music.163.com/song?id=20737597){:target="_blank"}  
 
-VSQ有很多流行音乐的演绎版本，听起来背有一番风味。  
+VSQ有很多流行音乐的演绎版本，听起来别有一番风味。  
 
 #### 提琴是乐器中难度系数比较高的，听到的每一个声音都是经过很久练习的，天道酬勤。
 
