@@ -8,7 +8,7 @@ description: 提琴美好的声音
 hidden: false
 ---
 
-![]({{ "/assert/20201215_1.jpg" | prepend: site.img_location }})
+![]({{ "/assert/20201215_1.jpg" | prepend: site.img_location }}){:width="100%"}
 
 ### 奇妙的开始
 
@@ -19,6 +19,8 @@ hidden: false
 自己主要听的是一些比较流行的曲子，中间除了单纯的小提琴，还有大提琴，弦乐组合，那种感觉无以言表。
 
 来欣赏艺术家们的演绎吧。
+
+<iframe  frameborder="auto" border="1" marginwidth="0" marginheight="0" width="100%" height=450 src="//music.163.com/outchain/player?type=0&id=5384867967&auto=0&height=430"></iframe>
 
 ### 1. David Garrett
 
