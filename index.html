@@ -1,6 +1,7 @@
 ---
 layout: page
 description: "Do it now"
+title: "从现在行动 | Do it now"
 ---
 
 {% for post in paginator.posts %}
@@ -18,6 +19,7 @@ description: "Do it now"
             {{ post.content | strip_html | truncate:140 }}
         </div>
     </a>
+    <br/>
     <p class="post-meta">Posted on {{ post.date | date: "%Y-%m-%d" }}</p>
 </div>
 

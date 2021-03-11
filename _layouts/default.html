@@ -1,25 +1,11 @@
 <!DOCTYPE html>
-<html lang="en">
-
-{% include head.html %}
-
-
-
-
-
-<body ontouchstart="">
-
-    {% include nav.html %}
+<html class="t-{{ site.themeColor }}">
+  {% include head.html %}
+  <body>
+    {% include navigation.html %}
 
     {{ content }}
 
     {% include footer.html %}
-<script>
-
-</script>
-
-</body>
-
+  </body>
 </html>
-
-

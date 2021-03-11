@@ -1,13 +1,27 @@
-## 说明
+# material-jekyll-theme
 
-此博客 fork 自 [Cnfeat](http://www.cnfeat.com/)，感谢。
+[Demo](http://alexcarpenter.github.io/material-jekyll-theme)
 
+![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
 
-### Changelog
+## Getting started
 
-- 2018-08-26 Clone 代码，修改资料，准备启动github Pages
-- 2018-12-05 支持Hide隐藏属性，用于支持直接的URL访问，并且不出现在文章列表
+1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
+2. `cd material-jekyll-theme`
+3. Configure the `_config.yml` file as needed
+4. `bundle install`
+5. `bundle exec jekyll serve`
 
+## Options
 
+Customize your options within the `_config.yml` file.
 
-
++ Theme
+  + Green
+  + Blue
+  + Orange
+  + Purple
+  + Grey
++ Fixed Navigation
+  + True
+  + False

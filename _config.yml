@@ -1,62 +1,46 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
 # Site settings
-title: 从现在行动
-header-img: "img/Xacebook.jpg"
-tagline: "cn"  
-description: "从现在行动|Do it now"  
-baseurl: ""
-url: "http://sanbuguan.github.io"  
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: "从现在行动 | Do it now"  
+email: 
+description: "从现在行动 | Do it now"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://sanbuguan.github.io" # the base hostname & protocol for your site
 
+# Social
+githubUsername:
+twitterUsername:
+dribbbleUsername:
+codepenUsername:
 
-
-# About/contact
-owner: 
-  name: " Ivan"
-  email: lai-nn-1@qq.com
-  bio: "从现在行动"
-
-# Data
-gavatar: 
-favicon: img/favicon.ico
-img_location: ""
-
-
-douban_username:  
-twitter_username: 
-github_username: 
-facebook_username: 
-weibo_username: 
-zhihu_username: 
-
-# Build settings  
-# use Github Flavored Markdown !important  
-# document: http://jekyllrb.com/docs/configuration/#kramdown  
-markdown: kramdown
-highlighter: rouge
-permalink: pretty
-plugins: [jekyll-paginate]
-paginate: 15
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: Asia/Shanghai
 
-# Defaults for posts
-defaults:
-    scope: 
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Ivan"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+# Build settings
+markdown: kramdown
 
-# Comments 
-# comments :
-#   provider : disqus
-#   duoshuo :
-#     short_name : cnfeat
-#   disqus :
-#       short_name : cnfeat
+themeColor: purple # green, blue, orange, purple, grey
+fixedNav: 'true' # true or false
 
+# permalink: /:year/:month/:title
+permalink: pretty
+markdown: kramdown
 
-# Links to include in footer navigation
+plugins: [jekyll-paginate]
+paginate: 15
+
+include: [_pages]
+exclude: [_site, CHANGELOG.md, LICENSE, README.md,.jekyll-cache,_draft]
+sass:
+  style: compressed
