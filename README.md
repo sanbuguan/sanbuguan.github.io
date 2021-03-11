@@ -1,27 +1,31 @@
-# material-jekyll-theme
+## 我是谁
 
-[Demo](http://alexcarpenter.github.io/material-jekyll-theme)
+我是一个普通的软件测试工程师，平时自己喜欢捣鼓一下乱七八糟的东西。一直梦想着可以改变这个世界，突然有一天觉得好渺小，自己的努力很容易就被淹没了，不过想来也对，自己其实就是宇宙轮回中的一个尘埃。于是想去做点事情，从小事做起，从现在做起。
 
-![Material Jekyll Theme](https://d13yacurqjgara.cloudfront.net/users/37718/screenshots/2430279/slice_1.jpg)
+## 从小事做起
 
-## Getting started
+自己总是很惆怅，担心自己的未来，担心将来的生活，内心非常想实现自己的梦想，可是总是停留在想法，没有靠谱的方案。希望自己从小事做起，一点点实现自己的人生价值。
 
-1. `git clone https://github.com/alexcarpenter/material-jekyll-theme.git`
-2. `cd material-jekyll-theme`
-3. Configure the `_config.yml` file as needed
-4. `bundle install`
-5. `bundle exec jekyll serve`
+## 从现在行动
 
-## Options
+我突然发现自己有拖延症了，做事情总是很慢，总是要拖到最后一刻才开始做，改改改，改掉自己的拖延症！
 
-Customize your options within the `_config.yml` file.
+## 喜欢的一首诗
+空山新雨后，天气晚来秋。  
+明月松间照，清泉石上流。
 
-+ Theme
-  + Green
-  + Blue
-  + Orange
-  + Purple
-  + Grey
-+ Fixed Navigation
-  + True
-  + False
+
+
+
+
+## 坚信
+
+* 坚持就是胜利
+* 再小的量变，积累起来也可以变成质变
+
+
+## 联系我
+
+邮箱：lai-nn-1@qq.com   
+Github：[https://github.com/sanbuguan](https://github.com/sanbuguan)    
+个人博客：[https://blog.laipeng.net](https://blog.laipeng.net)
