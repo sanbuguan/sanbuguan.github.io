@@ -30,7 +30,8 @@ timezone: Asia/Shanghai
 # Build settings
 markdown: kramdown
 
-themeColor: purple # green, blue, orange, purple, grey
+# green, blue, orange, purple, grey
+themeColor: purple 
 fixedNav: 'true' # true or false
 
 # permalink: /:year/:month/:title

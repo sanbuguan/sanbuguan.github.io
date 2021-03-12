@@ -265,7 +265,24 @@
     padding-top: 4.1rem;
 }
 
+.c-article__main blockquote {
+    background: #E9E9E9;
+}
+
+.article-date {
+  font-size: 1.7rem;
+  padding-left: 0rem;
+  font-style:italic;
+  color:#fff;
+  font-weight:bold;
+}
 
 .c-article__main {
   padding-top: 3.5rem;
+}
+
+
+.c-header {
+    padding-top: 10rem;
+    padding-bottom: 5rem;
 }

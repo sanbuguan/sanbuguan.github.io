@@ -5,6 +5,11 @@ layout: default
   <header class="c-header c-article__header">
     <div class="u-container">
       <h1 class="c-header__title">{{ page.title }}</h1>
+      {% if page.date %}
+            <span class="article-date">Posted on {{ page.date | date: "%Y-%m-%d" }}</span>
+      {% else %}
+            <span class="article-date">&nbsp</span>
+      {% endif %}
     </div>
   </header>
 
