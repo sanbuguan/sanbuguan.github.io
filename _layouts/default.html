@@ -1,5 +1,10 @@
 <!DOCTYPE html>
-<html class="t-{{ site.themeColor }}">
+<!-- {% assign theme_count = site.themeColor | size %}
+{% assign theme_index = site.time | date: "%d" | modulo: theme_count %}
+<html class="t-{{ site.themeColor[theme_index] }}"> -->
+<html class="t-{{ site.themeColor }}"> -->
+
+
   {% include head.html %}
   <body>
     {% include navigation.html %}
