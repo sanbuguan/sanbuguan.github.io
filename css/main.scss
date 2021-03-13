@@ -260,11 +260,6 @@
     background-color: #fff
 }
 
-
-.c-footer {
-    padding-top: 4.1rem;
-}
-
 .c-article__main blockquote {
     background: #E9E9E9;
 }
@@ -279,10 +274,16 @@
 
 .c-article__main {
   padding-top: 3.5rem;
+  padding-bottom: 7rem;
 }
 
 
 .c-header {
     padding-top: 10rem;
     padding-bottom: 5rem;
+}
+
+.c-footer {
+    padding-top: 4.1rem;
+    height: 8rem;
 }
