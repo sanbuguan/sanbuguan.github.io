@@ -32,9 +32,9 @@ markdown: kramdown
 
 # will ramdom choose theme by day, 
 # code in layouts/default.html
-# green, blue, orange, purple, grey
 #themeColor: [purple, green, blue, orange, grey] 
-themeColor: purple
+themeColor: [orange, purple, green, blue] 
+#themeColor: purple
 fixedNav: 'true' # true or false
 
 # permalink: /:year/:month/:title
