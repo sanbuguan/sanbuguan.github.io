@@ -25,7 +25,7 @@ permalink: /reading/
 - [ ] 犹太人智慧全书 - 周乐
 - [X] [如何高效学习 - 斯科特·杨](/studynotes/2021/04/13/LearnMorePlus/)
 - [ ] 装腔指南 - 托马斯 / 休伯特
-- [ ] 亲密关系 - 克里斯多福·孟
+- [X] [亲密关系 - 克里斯多福·孟](/studynotes/2021/05/30/Relationship/)
 - [ ] 变量：本土时代的生存策略 - 何帆
 - [X] [钱从哪里来 - 香帅](/studynotes/2021/04/07/XS2020-Money/)
 - [X] [分化时代的财富选择 - 香帅](/studynotes/2021/04/06/XS2021-Split/)
