@@ -10,6 +10,7 @@ permalink: /reading/
 - [X] [思考的快与慢 - 丹尼尔·卡尼曼](/studynotes/2021/03/21/ThinkingFastSlow/)
 - [X] [像火箭科学家一样思考 - 奥赞·瓦罗尔](/studynotes/2021/04/05/ThinkingRocket/)
 - [x] [活出生命的意义 - 维克多·弗兰克尔](/life/2021/06/16/SearchforMeaning/)
+- [X] [被讨厌的勇气 - 岸见一郎&古贺史健](/life/2021/06/19/CourageDisliked/)
 - [ ] 沟通的方法 - 脱不花
 - [ ] 太古和其他的时间 - 奥尔加·托卡尔丘克
 - [ ] 白天的房子，夜晚的房子 - 奥尔加·托卡尔丘克
